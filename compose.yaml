@@ -1,0 +1,16 @@
+services:
+  kalender:
+    build:
+      context: .
+      dockerfile: Containerfile
+    image: localhost/vereinskalender:latest
+    volumes:
+      - .:/app:Z
+    command: ["python", "generate_calendar.py"]
+
+  test:
+    image: localhost/vereinskalender:latest
+    profiles: ["test"]
+    volumes:
+      - .:/app:Z
+    command: ["python", "-m", "unittest", "-v"]

@@ -1,0 +1,68 @@
+{
+  "year": 2027,
+  "region": "Nordrhein-Westfalen",
+  "date_format": "ISO 8601 (YYYY-MM-DD)",
+  "notes": [
+    "Enthalten sind landesweit festgelegte Ferienzeiträume, die mindestens einen Tag im Kalenderjahr 2027 berühren. Zeiträume über den Jahreswechsel sind vollständig angegeben.",
+    "Bewegliche Ferientage sind nicht enthalten, da die einzelnen Schulen deren Termine festlegen.",
+    "Angegeben sind jeweils der erste und letzte Ferientag (laut KMK). NRW hat in beiden Schuljahren 3 bewegliche Ferientage."
+  ],
+  "sources": [
+    {
+      "name": "Kultusministerkonferenz (KMK), Ferien im Schuljahr 2026/2027",
+      "url": "https://www.kmk.org/fileadmin/Dateien/pdf/Ferienkalender/FER2026_27.pdf",
+      "as_of": "2025-10-09",
+      "accessed": "2026-10-31"
+    },
+    {
+      "name": "Kultusministerkonferenz (KMK), Ferien im Schuljahr 2027/2028",
+      "url": "https://www.kmk.org/fileadmin/Dateien/pdf/Ferienkalender/FER2027_28.pdf",
+      "as_of": "2025-10-09",
+      "accessed": "2026-10-31"
+    }
+  ],
+  "holidays": [
+    {
+      "name": "Weihnachtsferien 2026/2027",
+      "type": "Weihnachtsferien",
+      "start": "2026-12-23",
+      "end": "2027-01-06",
+      "school_year": "2026/2027"
+    },
+    {
+      "name": "Osterferien",
+      "type": "Osterferien",
+      "start": "2027-03-22",
+      "end": "2027-04-03",
+      "school_year": "2026/2027"
+    },
+    {
+      "name": "Pfingstferien",
+      "type": "Pfingstferien",
+      "start": "2027-05-18",
+      "end": "2027-05-18",
+      "school_year": "2026/2027"
+    },
+    {
+      "name": "Sommerferien",
+      "type": "Sommerferien",
+      "start": "2027-07-19",
+      "end": "2027-08-31",
+      "school_year": "2026/2027"
+    },
+    {
+      "name": "Herbstferien",
+      "type": "Herbstferien",
+      "start": "2027-10-23",
+      "end": "2027-11-06",
+      "school_year": "2027/2028"
+    },
+    {
+      "name": "Weihnachtsferien 2027/2028",
+      "type": "Weihnachtsferien",
+      "start": "2027-12-24",
+      "end": "2028-01-08",
+      "school_year": "2027/2028"
+    }
+  ]
+}

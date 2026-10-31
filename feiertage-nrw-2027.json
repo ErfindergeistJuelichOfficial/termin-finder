@@ -1,0 +1,73 @@
+{
+  "year": 2027,
+  "region": "Nordrhein-Westfalen",
+  "date_format": "ISO 8601 (YYYY-MM-DD)",
+  "scope": "Gesetzliche Feiertage nach § 2 Feiertagsgesetz NW",
+  "notes": [
+    "Nicht enthalten sind Sonntage, nicht gesetzliche Brauchtumstage sowie Heiligabend und Silvester.",
+    "Bewegliche Feiertage sind aus dem Osterdatum 2027 (28. März) abgeleitet.",
+    "short_name ist eine optionale Kurzform mit Zeilenumbruch für die Jahresübersicht."
+  ],
+  "sources": [
+    {
+      "name": "Gesetz über die Sonn- und Feiertage (Feiertagsgesetz NW), § 2 Abs. 1",
+      "url": "https://recht.nrw.de/lrgv/gesetz/01012000-bekanntmachung-der-neufassung-des-gesetzes-ueber-die-sonn-und-feiertage/",
+      "accessed": "2026-10-31"
+    }
+  ],
+  "holidays": [
+    {
+      "name": "Neujahr",
+      "date": "2027-01-01"
+    },
+    {
+      "name": "Karfreitag",
+      "date": "2027-03-26",
+      "short_name": "Kar-\nfreitag"
+    },
+    {
+      "name": "Ostermontag",
+      "date": "2027-03-29",
+      "short_name": "Oster-\nmontag"
+    },
+    {
+      "name": "Tag der Arbeit",
+      "date": "2027-05-01"
+    },
+    {
+      "name": "Christi Himmelfahrt",
+      "date": "2027-05-06",
+      "short_name": "Christi\nHimmelfahrt"
+    },
+    {
+      "name": "Pfingstmontag",
+      "date": "2027-05-17",
+      "short_name": "Pfingst-\nmontag"
+    },
+    {
+      "name": "Fronleichnam",
+      "date": "2027-05-27",
+      "short_name": "Fron-\nleichnam"
+    },
+    {
+      "name": "Tag der Deutschen Einheit",
+      "date": "2027-10-03",
+      "short_name": "Tag der Dt.\nEinheit"
+    },
+    {
+      "name": "Allerheiligen",
+      "date": "2027-11-01",
+      "short_name": "Aller-\nheiligen"
+    },
+    {
+      "name": "1. Weihnachtstag",
+      "date": "2027-12-25",
+      "short_name": "1. Weih-\nnachtstag"
+    },
+    {
+      "name": "2. Weihnachtstag",
+      "date": "2027-12-26",
+      "short_name": "2. Weih-\nnachtstag"
+    }
+  ]
+}
